@@ -34,7 +34,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RollTheDie">
+  <component name="RunManager" selected="Application.NoPlayLadderOrSnake">
+    <configuration name="NoPlayLadderOrSnake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snakeladder.NoPlayLadderOrSnake" />
+      <module name="SnakeLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snakeladder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RollTheDie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="snakeladder.RollTheDie" />
       <module name="SnakeLadder" />
@@ -76,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoPlayLadderOrSnake" />
         <item itemvalue="Application.RollTheDie" />
         <item itemvalue="Application.StartPosition" />
         <item itemvalue="Application.WelcomeMessage" />
